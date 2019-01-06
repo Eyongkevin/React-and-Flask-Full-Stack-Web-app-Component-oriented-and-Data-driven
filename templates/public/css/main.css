@@ -14,3 +14,27 @@ h1, h2, h3, h4, h5, h6, p, ul {
 	margin: 0;
 	padding: 0;
 }
+.header-page {
+  overflow: hidden;
+  background-color: #f1f1f1;
+  padding: 20px 10px;
+  text-align: center;
+  line-height: 25px;
+  color: black;
+  font-size:40px;
+  border-radius: 4px;
+}
+.header{
+ color:black;
+ text-align: center;
+ font-size:40px;
+ background-color: #f1f1f1;
+}
+.logo{
+ width:40px;
+ height: 30px;
+ clear:right;
+}
+.author{
+color:#808080;
+}
